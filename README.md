@@ -7,7 +7,7 @@
 - [Twitter](https://https://twitter.com/yunusbulutt)
 - [LinkedIn](https://www.linkedin.com/in/yunusbulutt)
 - [Instagram](https://www.instagram.com/yunus.bulutt)
-- [Gmail](malito:bulutt1404@gmail.com)
+- [Gmail](mailto:bulutt1404@gmail.com)
 - [Telegram](https://t.me/yunusbulut)
 
 
