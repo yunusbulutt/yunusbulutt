@@ -8,8 +8,8 @@
 [Gmail][Gmail] **|** 
 [Telegram][Telegram]
 
-[Twitter]: (https://https://twitter.com/yunusbulutt)
-[LinkedIn]: (https://www.linkedin.com/in/yunusbulutt)
-[Instagram]: (https://www.instagram.com/yunus.bulutt)
-[Gmail]: (mailto:bulutt1404@gmail.com)
-[Telegram]: (https://t.me/yunusbulut)
+[Twitter]: https://https://twitter.com/yunusbulutt
+[LinkedIn]: https://www.linkedin.com/in/yunusbulutt
+[Instagram]: https://www.instagram.com/yunus.bulutt
+[Gmail]: mailto:bulutt1404@gmail.com
+[Telegram]: https://t.me/yunusbulut
